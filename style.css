@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+h1 {
+  background-color: wheat;
+  font-size: 35px;
+  margin: auto 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: flex;
+  justify-content: center;
+}
